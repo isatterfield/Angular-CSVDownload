@@ -1,0 +1,2 @@
+# Angular-CSVDownload
+See how to download a csv file both client-side and server-side leveraging powerful add-ins
